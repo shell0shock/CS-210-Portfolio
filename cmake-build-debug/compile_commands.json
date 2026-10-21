@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/codeshit/Project3/cmake-build-debug",
+  "command": "C:\\Users\\Alexa\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\c++.exe -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\untitled1.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\untitled1.dir\\main.cpp.obj -c E:\\codeshit\\Project3\\main.cpp",
+  "file": "E:/codeshit/Project3/main.cpp",
+  "output": "E:/codeshit/Project3/cmake-build-debug/CMakeFiles/untitled1.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/codeshit/Project3/cmake-build-debug",
+  "command": "C:\\Users\\Alexa\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\c++.exe -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\untitled1.dir\\GroceryTracker.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\untitled1.dir\\GroceryTracker.cpp.obj -c E:\\codeshit\\Project3\\GroceryTracker.cpp",
+  "file": "E:/codeshit/Project3/GroceryTracker.cpp",
+  "output": "E:/codeshit/Project3/cmake-build-debug/CMakeFiles/untitled1.dir/GroceryTracker.cpp.obj"
+}
+]

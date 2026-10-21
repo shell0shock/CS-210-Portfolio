@@ -1,0 +1,32 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "E:/codeshit/Project3/cmake-build-debug",
+	"dir-cur-src" : "E:/codeshit/Project3",
+	"dir-top-bld" : "E:/codeshit/Project3/cmake-build-debug",
+	"dir-top-src" : "E:/codeshit/Project3",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "E:/codeshit/Project3/cmake-build-debug/CMakeFiles/untitled1.dir",
+	"sources" : 
+	{
+		"CMakeFiles/untitled1.dir/GroceryTracker.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "E:/codeshit/Project3/GroceryTracker.cpp"
+		},
+		"CMakeFiles/untitled1.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "E:/codeshit/Project3/main.cpp"
+		}
+	}
+}
